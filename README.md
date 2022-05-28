@@ -1,3 +1,4 @@
 # FightingGame
 https://fighting-game-nv.netlify.app/
-![image](https://user-images.githubusercontent.com/85256743/170842338-82bbdfc8-1b25-48b4-82b4-e427e5955756.png)
+![Screenshot (557)](https://user-images.githubusercontent.com/85256743/170842408-9217643e-ffa8-4b2c-93f9-6ea7dd1f375a.png)
+
